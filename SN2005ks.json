@@ -1,0 +1,37 @@
+{
+	"SN2005ks":{
+		"name":"SN2005ks",
+		"errors":[
+			{
+				"value":"2014arXiv1401.3317S",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2012A&A...538A.120L",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2008yCat....1.2024B",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2008AJ....135..348S",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"2000A&AS..143....9W",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			},
+			{
+				"value":"1989A&AS...81..421B",
+				"kind":"bibcode",
+				"extra":"claimedtype"
+			}
+		]
+	}
+}
