@@ -1,0 +1,14 @@
+{
+	"SN2005by":{
+		"name":"SN2005by",
+		"sources":[
+      {
+        "name":"2005ATel..509....1G",
+        "url":"http://adsabs.harvard.edu/abs/2005ATel..509....1G",
+        "bibcode":"2005ATel..509....1G",
+        "alias":"5"
+      }],
+		"errors":[
+		]
+	}
+}
