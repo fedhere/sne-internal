@@ -1,0 +1,19 @@
+{
+	"PS15cjr":{
+		"name":"PS15cjr",
+		"sources":[
+		  {
+        "name":"2015ATel.8183....1J",
+        "url":"http://www.astronomerstelegram.org/?read=8183",
+        "bibcode":"2015ATel.8183....1J"
+      }
+    ],
+		"errors":[
+			{
+				"value":"Pan-STARRS 3Pi",
+				"kind":"name",
+				"extra":"claimedtype"
+			}		
+		]
+	}
+}
